@@ -1,0 +1,135 @@
+<resources>
+    <string name="app_name">Tour Guide Nagold</string>
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="what_to_do">What to Do</string>
+    <string name="nagold">Nagold</string>
+    <string name="nagold_ist_eine_stadt">Nagold ist eine Stadt in Baden-Württemberg, etwa 50 Kilometer südwestlich von Stuttgart und rund 25 Kilometer nordöstlich von Freudenstadt…<a href="https://de.wikipedia.org/wiki/Nagold">read more</a></string>
+    <string name="sights">Sights</string>
+    <string name="main_menu">Main Menu</string>
+    <string-array name="restaurantsTabLayout">
+        <item>Family style</item>
+        <item>Dog friendly</item>
+        <item>Non-smoking</item>
+    </string-array>
+    <string-array name="sightsTabLayout">
+        <item>history</item>
+        <item>architecture</item>
+        <item>fun and games</item>
+    </string-array>
+    <string-array name="restaurantsTitles">
+        <item>Burg</item>
+        <item>Gasthof Eisenbahn</item>
+        <item>da Gino</item>
+    </string-array>
+    <string name="burg"><a href="https://www.restaurant-burg.de/">web-site</a></string>
+    <string name="eisenbahn"><a href="http://www.gasthof-eisenbahn-nagold.de/start.htm">web-site</a></string>
+    <string name="dagino"><a href="http://www.dagino-nagold.de/konzept.html">web-site</a></string>
+    <integer-array name="restaurantsWeb">
+        <item>@string/burg</item>
+        <item>@string/eisenbahn</item>
+        <item>@string/dagino</item>
+    </integer-array>
+    <string-array name="restaurantsNumbers">
+        <item>+49 151 23350758</item>
+        <item>+49 151 44350757</item>
+        <item>+49 151 81150751</item>
+    </string-array>
+    <string-array name="restaurantsDescriptions">
+        <item>A wide range of culinary delights</item>
+        <item>…feel at home</item>
+        <item>Classic Innovative Italian</item>
+    </string-array>
+    <string-array name="restaurantsFullDescriptions">
+        <item>We prepare regional Swabian specialties according to tried and true recipes, but also seasonal and international dishes. Always made fresh and cooked with love.</item>
+        <item>Our success and the encouragement confirm our actions - with a lot of personal commitment, excellent service and selected quality, mixed with comfort and a rich selection at reasonable prices.</item>
+        <item>There are  the classics of Italian cuisine, which no one prepares better than "la Mama ".</item>
+    </string-array>
+    <string-array name="groceriesTitles">
+        <item>Wiedenmaier Metzgerei</item>
+        <item>EDEKA</item>
+        <item>Bäckerei Seeger</item>
+    </string-array>
+    <string name="wiedenmaier"><a href="http://widenmaier-metzgerei.de/">web-site</a></string>
+    <string name="edeka"><a href="https://www.edeka.de/">web-site</a></string>
+    <string name="seeger"><a href="https://www.baecker-seeger.de/">web-site</a></string>
+    <integer-array name="groceriesWeb">
+        <item>@string/wiedenmaier</item>
+        <item>@string/edeka</item>
+        <item>@string/seeger</item>
+    </integer-array>
+    <string-array name="groceriesNumbers">
+        <item>+49 151 23350758</item>
+        <item>+49 151 44350757</item>
+        <item>+49 151 81150751</item>
+    </string-array>
+    <string-array name="groceriesDescriptions">
+        <item>Freudenstädter St.8</item>
+        <item>Freudenstädter St. 25</item>
+        <item>Marktst. 21</item>
+    </string-array>
+    <string-array name="groceriesFullDescriptions">
+        <item>Pork from Schwäbisch-Hallische Landschwein! Also for making the sausage products. Sustainable. Animal welfare.</item>
+        <item>We offer you fresh products every day at our counter - you can recognize products from sustainable by the MSC seal.</item>
+        <item>Try the wide variety of our classics breads, such as mixed breed, farmers bread, mixed rye bread, rye bread or power grain bread, which are made with our own sourdough.</item>
+    </string-array>
+    <string-array name="sightsTitles">
+        <item>Burgruine Hohennagold</item>
+        <item>St. Petrus und Paulus Kirche</item>
+        <item>Kleb</item>
+    </string-array>
+    <string-array name="sightsNumbers">
+        <item>+49 151 23350758</item>
+        <item>+49 151 44350757</item>
+        <item>+49 151 81150751</item>
+    </string-array>
+    <string name="ruine"><a href="https://www.nagold.de/Burgruine">web-site</a></string>
+    <string name="kirche"><a href="https://www.schwarzwald-tourismus.info/touren/von-kirchzarten-nach-st.-peter-643538d1b2">web-site</a></string>
+    <string name="kleb"><a href="https://www.schwarzwald-tourismus.info/attraktionen/nagold-stadtpark-kleb-7b2ad54174">web-site</a></string>
+    <string-array name="sightsWeb">
+        <item>@string/ruine</item>
+        <item>@string/kirche</item>
+        <item>@string/kleb</item>
+    </string-array>
+    <string-array name="sightsDescriptions">
+        <item>One of the largest and most beautiful castle ruins in the country.</item>
+        <item>The second oldest church by the time it was built is St. Peter and Paul.</item>
+        <item>Kleb is a lively park in the middle of downtown Nagold.</item>
+    </string-array>
+    <string-array name="sightsFullDescription">
+        <item>The medieval Hohennagold castle ruins are prominent and clearly visible from afar above the city of Nagold. You can climb the Schlossberg via various hiking trails through the nature reserve.</item>
+        <item>The church as it exists today is a three-aisled basilica. It was partly built on the old foundation walls in the 11th century after the old St. Peters Church was demolished.</item>
+        <item>The city park Kleb is more than just a park directly on the old town of Nagold.</item>
+    </string-array>
+    <string-array name="hotelsTitles">
+        <item>Ibis Styles</item>
+        <item>Pfrondorfer Mühle</item>
+        <item>Adler Hotel</item>
+    </string-array>
+    <string-array name="hotelsNumbers">
+        <item>+49 151 23350758</item>
+        <item>+49 151 44350757</item>
+        <item>+49 151 81150751</item>
+    </string-array>
+    <string name="ibis"><a href="https://www.booking.com/hotel/de/ibis-styles-nagold-schwarzwald.ru.html">web-site</a></string>
+    <string name="mühle"><a href="https://www.pfrondorfer-muehle.de/en/restaurant/">web-site</a></string>
+    <string name="adler"><a href="https://www.hotel-adler-nagold.de/">web-site</a></string>
+    <string name="good_for_dinner_in_nagold">Good for dinner in Nagold</string>
+    <string name="sights_and_landmarks_in_nagold">Sights and landmarks in Nagold</string>
+    <string name="grocery">Grocery</string>
+    <string-array name="hotelsWeb">
+        <item>@string/ibis</item>
+        <item>@string/mühle</item>
+        <item>@string/adler</item>
+    </string-array>
+    <string-array name="hotelsDescriptions">
+        <item>a pleasant stay with added value.</item>
+        <item>Enjoy the "green urbanity" of Nagold directly from your room.</item>
+        <item>A holiday with Black Forest hospitality in the Nagold Valley</item>
+    </string-array>
+    <string-array name="hotelsFullDescriptions">
+        <item>Our hotel is personally managed and we offer you a pleasant stay with added value.. </item>
+        <item>Located right in the city center, you will experience a picturesque old town with many shopping opportunities for young and old.</item>
+        <item>With over 300 years of history: When the grain milling in the Pfrondorfer Mühle stopped in 1960, the era of gastronomy and hospitality began in the northern Black Forest region. </item>
+    </string-array>
+</resources>

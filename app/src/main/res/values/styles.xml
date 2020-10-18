@@ -1,0 +1,45 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorDeepBlue</item>
+        <item name="colorPrimaryDark">@color/colorDarkBlue</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="textMainIcon">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">14sp</item>
+        <item name="fontFamily">monospace</item>
+            <item name="android:textStyle">bold</item>
+        </style>
+        <style name="textHeader">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">24sp</item>
+        <item name="fontFamily">monospace</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="textMain">
+        <item name="android:textColor">#9E9E9E</item>
+        <item name="android:textSize">14sp</item>
+        <item name="fontFamily">monospace</item>
+    </style>
+    <style name="textHeader2">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">16sp</item>
+        <item name="fontFamily">monospace</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="textHeader3">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">16sp</item>
+        <item name="fontFamily">monospace</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="textMainWhite">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">12sp</item>
+        <item name="fontFamily">monospace</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+</resources>
