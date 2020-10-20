@@ -6,6 +6,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:divider="@null"
-        android:layout_marginTop="2dp"
+        android:layout_marginTop="@dimen/activity_list_margin"
         android:dividerHeight="2dp"/>
 </layout>
